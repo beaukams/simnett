@@ -1,0 +1,2 @@
+simnett: SIMple NETwork Tool
+Le projet consiste à réaliser un scanner. Pour cette premiere version, il s'aggit seulement de mettre en place un scanner permettant de faire la decouverte du réseau,d'identifier les differents noeuds et leurs numeros IP.
